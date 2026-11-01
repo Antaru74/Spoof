@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PerApp Spoof</string>
+    <string name="xposed_desc">Per-app device model / CPU / GPU spoof (gaya PenguinOS)</string>
+</resources>
